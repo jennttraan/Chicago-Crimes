@@ -71,10 +71,9 @@ The project includes the following advanced SQL queries:
 1. **Moving Averages**: Calculated the 3-year moving average of crimes to identify trends.
 2. **Top Crimes by District**: Identified the top 3 most common crime types for each district.
 3. **Year-over-Year Growth Rate**: Analyzed the year-over-year growth rate of crimes.
-4. **Crime Density**: Calculated crime density (crimes per square mile) by community area.
-5. **Time of Day Analysis**: Categorized crimes by time of day (morning, afternoon, evening, night).
-6. **Seasonal Trends**: Analyzed crimes by season (winter, spring, summer, fall).
-7. **Geospatial Analysis**: Identified crime clusters using latitude and longitude.
+4. **Time of Day Analysis**: Categorized crimes by time of day (morning, afternoon, evening, night).
+5. **Seasonal Trends**: Analyzed crimes by season (winter, spring, summer, fall).
+
 
 For detailed SQL code, refer to the [advanced_queries.sql](advanced_queries.sql) file.
 
